@@ -1,0 +1,132 @@
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.exe.config
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csprojAssemblyReference.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Form1.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmAdministrador.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmConsultaDisponibilidad.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmConsultaReserva.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmCrearAdmin.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmCrearReserva.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmEliminarReserva.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmHuesped.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmIngresoAdmin.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Properties.Resources.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.GenerateResource.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.CoreCompileInputs.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.exe.config
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\MySql.Data.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Renci.SshNet.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Buffers.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Memory.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Zstandard.Net.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\MySql.Data.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Renci.SshNet.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Buffers.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Memory.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csprojAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Form1.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmAdministrador.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmConsultaDisponibilidad.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmConsultaReserva.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmCrearAdmin.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmCrearReserva.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmEliminarReserva.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmHuesped.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmIngresoAdmin.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Properties.Resources.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Testing.frmTesting.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.GenerateResource.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.CoreCompileInputs.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.CopyComplete
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - Fiori&Tuma\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\BouncyCastle.Crypto.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Hash.xxHash.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\MySql.Data.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Renci.SshNet.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Buffers.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Memory.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Numerics.Vectors.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Ubiety.Dns.Core.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Zstandard.Net.dll
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Hash.xxHash.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\MySql.Data.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Renci.SshNet.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Buffers.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Memory.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Numerics.Vectors.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Testing.frmTesting.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\ExamenFinal\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.CopyComplete
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.exe.config
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\AdminReservasHotel.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\MySql.Data.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Renci.SshNet.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Buffers.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Memory.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Zstandard.Net.dll
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\MySql.Data.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\Renci.SshNet.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Buffers.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Memory.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csprojAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Form1.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmAdministrador.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmConsultaDisponibilidad.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmConsultaReserva.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmCrearAdmin.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmCrearReserva.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmEliminarReserva.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmHuesped.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.PLayers.frmIngresoAdmin.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Properties.Resources.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.Testing.frmTesting.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.GenerateResource.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.CoreCompileInputs.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.csproj.CopyComplete
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PROYECTO FINAL - LABORATORIO II\AppFinal_Lab2_Fiori-Tuma\AdminReservasHotel\AdminReservasHotel\obj\Debug\AdminReservasHotel.pdb
